@@ -17,7 +17,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/288318818/
 
 ## Agradecimentos
 
-- Agradecemos aos amigos Mercado Bitcoin e Biscoint pela comida, bebidas e espaço para o evento presencial!
+- Agradecemos a Vinteum pelo apoio.
 
 ## Bitcoin
 
