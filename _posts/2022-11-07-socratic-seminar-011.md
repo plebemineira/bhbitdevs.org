@@ -32,6 +32,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/288318818/
 - [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)
 - [LNsploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit)
 - [Sphinx hardware node](https://twitter.com/sphinx_chat/status/1571974701098074112)
+- [TARO](https://lightning.engineering/posts/2022-9-28-taro-launch/)
 
 ## Misc
 
