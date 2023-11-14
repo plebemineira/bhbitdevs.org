@@ -12,6 +12,10 @@ site locally. Once they're setup:
 * Run `jekyll serve`
 * Go to http://localhost:4000
 
+## Development (nix)
+
+Make sure that your system allows [nix flakes](https://nixos.wiki/wiki/Flakes). Run `nix run`
+
 ## Making a Post
 
 To make a new post, make a new file in `_posts/` with a title of
