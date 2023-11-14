@@ -9,7 +9,6 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/belo-horizonte-bi
 
 ## Avisos
 
-- Entrem no grupo do Telegram "[São Paulo Bitdevs](https://t.me/joinchat/lHusQ1bV9fUyNDY5)" para ajudar na curadoria dos encontros!
 - Respeite a privacidade dos participantes.
 - Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
 
