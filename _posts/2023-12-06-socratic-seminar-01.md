@@ -17,12 +17,12 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/belo-horizonte-bi
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio ao evento.
 - Agradecemos à [Vanq](https://vanq.co/) pela disponibilização do espaço.
 
-## xxx
+## Formato
 
-* xxx
-* xxx
+Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
-## yyy
+## Tópicos
 
-* yyy
-* yyy
+* Ordinals vs Mineiradores
+* Armazenamento e distribuição de dados via Bitcoin: [Bitstream](https://robinlinus.com/bitstream.pdf) vs [Durabit](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
+
