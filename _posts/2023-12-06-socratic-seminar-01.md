@@ -23,6 +23,7 @@ Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
 ## Tópicos
 
-* Ordinals vs Mineiradores
-* Armazenamento e distribuição de dados via Bitcoin: [Bitstream](https://robinlinus.com/bitstream.pdf) vs [Durabit](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
-
+* [Censura da F2Pool?](https://b10c.me/observations/08-missing-sanctioned-transactions)
+* [Lançamento Demand - Nova Mining Pool, Primeira a adotar StratumV2](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool?ref=nobsbitcoin.com)
+* [Lançamento Ocean - Renascimento Eligius, censura/filtro de Inscriptions, Payouts direto na coinbase](https://bitcoinmagazine.com/technical/an-ocean-launch-post-mortem)
+* [Stark proof for BitVM Execution](https://github.com/neocarmack/STARK/blob/main/STARK%20proof%20for%20BitVM%20circuit%20execution.pdf)
