@@ -16,6 +16,9 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/belo-horizonte-bi
 
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio ao evento.
 - Agradecemos à [Vanq](https://vanq.co/) pela disponibilização do espaço.
+
+## Aquecimento
+
 - [UTXO Set](https://txstats.com/d/000000054/utxo-set-repartition-by-output-type?orgId=1)
 - [Fees Per Day](https://transactionfee.info/charts/fees-per-day-btc/)
 - [Inscriptions Stats](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
