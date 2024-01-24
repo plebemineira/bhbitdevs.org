@@ -28,6 +28,7 @@ Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 ## Tópicos
 
 * [`BIP` do `OP_CAT`](https://github.com/bitcoin/bips/blob/3d31e5c8947bf5d2d8ba02dc22c5302085b9f91b/bip-%3F%3F%3F-cat.mediawiki)
+* [opcat.wrf](https://opcat.wtf/)
 * [quantum cats e shenanigans que os fazem funcionar](https://twitter.com/rot13maxi/status/1745983083608789345)
   * [Com `OP_CAT`, transações instantâneas na Ark como na LN](https://twitter.com/robin_linus/status/1721878419175247958?s=46&t=zAjxz5gV-hM4odRtK474uA)
     * Covenants
