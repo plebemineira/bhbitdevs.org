@@ -4,9 +4,9 @@ type: socratic
 title: "Seminário Socrático 06"
 ---
 ## Avisos
-
 - Respeite a privacidade dos participantes.
 - Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
+- Entrem no grupo do Whatsapp [BH BitDevs](https://chat.whatsapp.com/EXLJjo3QURxBcj8bqxLc81) 
 
 ## Agradecimentos
 
@@ -17,6 +17,10 @@ title: "Seminário Socrático 06"
 
 Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
+## Aquecimento
+* Um presente será sorteado para quem quiser explicar o post do Jeremy Rubin sobre Covenants without Soft Forks.
+* [Beta release of utreexod](https://mailing-list.bitcoindevs.xyz/bitcoindev/d5f47120-3397-4f56-93ca-dd310d845f3cn@googlegroups.com/T/#u)
+* [Cashu.me 0.1 – Release](https://primal.net/e/note150ywd3rmpw086uwus22kyf45gvqk78r6dl8qm4rv65jem49hglts3um34a)
 
 ## Tópicos
 
