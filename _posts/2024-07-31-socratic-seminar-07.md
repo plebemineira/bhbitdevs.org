@@ -28,8 +28,8 @@ Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 ## Tópicos
 
 * [RFC 9591](https://www.rfc-editor.org/rfc/rfc9591.html): The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures
-* Explicação da transação estranha do Marcelo: https://stacker.news/items/600187
-* CUSF - “Core Untouched Soft Fork”: https://bip300cusf.com/cusf.pdf
-* Taproot Assets LN Channels: https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/
-* Empty Block report by mempool.space: https://research.mempool.space/empty-block-report/
-* Solominer BitAxe https://livecoins.com.br/minerador-de-bitcoin-ganha-r-1-milhao-sozinho-usando-equipamento-caseiro/
+* Explicação da [transação estranha do Marcelo](https://stacker.news/items/600187)
+* [CUSF](https://bip300cusf.com/cusf.pdf) - “Core Untouched Soft Fork”
+* [Taproot Assets LN Channels](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+* [Empty Block report by mempool.space](https://research.mempool.space/empty-block-report/)
+* [Solominer BitAxe](https://livecoins.com.br/minerador-de-bitcoin-ganha-r-1-milhao-sozinho-usando-equipamento-caseiro/)
