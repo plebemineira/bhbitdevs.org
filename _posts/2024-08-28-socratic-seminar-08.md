@@ -18,7 +18,13 @@ title: "Seminário Socrático 08"
 Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
 ## Aquecimento
-
+* Qual é a fonte de tempo para o Bitcoin ajustar 10 minutos por bloco? Ele usa o relógio de quem?
+Como a rede chega num consenso se vai ajustar +1,11% ou +1,12%?
+* [University of Wyoming launch Bitcopin Research Institute](https://bitcoinmagazine.com/business/university-of-wyoming-launches-first-bitcoin-research-institute)
+* [Censura de VPNs na Appstore](https://x.com/protonvpn/status/1825181045035074016)
+* [MS Cloudstrike global outage](https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html)
+* [Uma BitAxe encontrou um bloco](https://x.com/bitentrepreneur/status/1816173826754929125)
+* [Proton Wallet Launch](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 
 ## Tópicos
 * [O Dream Team dos forks, Mevil no Bitcoin?](https://x.com/roasbeef/status/1813658193631023416)
