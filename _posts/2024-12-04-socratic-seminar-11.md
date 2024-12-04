@@ -33,24 +33,37 @@ Seu nome e seu bairro!
 
  
 ## Tópicos
-* [O Bitcoin é uma armazenagem descentralizada?](https://x.com/stevesimple/status/1837544142575927766?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Fork da Samurai](https://x.com/econoalchemist/status/1837687516079489060?t=BABoP5jIriCVd33bFuP7jQ&s=19)
-* [Como é o anti-spam do Bitcoin e quais ataques do tipo já ocorreram?](https://x.com/lopp/status/1835517907612090489?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [NOIST: a non-interactive, single-round t-of-n threshold signature scheme.
-](https://x.com/brqgoo/status/1835278458718462254?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Brick Wallet: a web frontend for NWC (Nostr Wallet Connect)](https://x.com/super_testnet/status/1834016108321669439?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Introducing Selfie-Records, by @_miguelmedeiros at Synonym.](https://x.com/synonym_to/status/1833907090567602589?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [PPLNS-JD - a breakthrough in how to calculate the payouts based both on selected transactions and hash power provided.
-](https://x.com/demand_pool/status/1833509389539676538?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Como calcular o tamanho mínimo das UTXOs](https://x.com/lopp/status/1833047373167067379?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [GAP limit pode te matar do coração](https://x.com/lopp/status/1832981200048103787?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Silent payments in the wild
-](https://x.com/bitboxswiss/status/1831981915827757560?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [JoinStr: Decentralized CoinJoin Implementation Using Nostr](https://www.nobsbitcoin.com/joinstr-decentralized-coinjoin-implementation-using-nostr/)
-* [Bip 300 e 301 atualizadas
-](https://x.com/truthcoin/status/1838538369464435055?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [bitcoindev: Signing a Bitcoin Transaction with Lamport Signatures
-](https://groups.google.com/d/msgid/bitcoindev/CAEM%3Dy%2BXyW8wNOekw13C5jDMzQ-dOJpQrBC%2BqR8-uDot25tM%3DXA%40mail.gmail.com?utm_medium=email&utm_source=footer)  
+
+
+* Gostaria de aprender mais sobre multisig bitcoin e quais seriam as melhores formas de gerenciar mais de uma carteira Bitcoin
+* Como você vê o impacto das soluções de segunda camada, como a Lightning Network, na escalabilidade do Bitcoin?
+* Quanto custa/necessário para criar um pool/channel Lightning Network.(necessário em termos de hardware).
+  * Vale a pena ter um No/channel Lightning Network?
+* Existe algum desenvolvimento técnico ou proposta recente no Bitcoin Core que você acredita ser revolucionária para o protocolo?
+* Quais os riscos de fazer DeFi com bitcoin?
+
+* Se eu usar 12 palavras singlesig vou ter a xpub A.
+Se eu usar as mesmas 12 palavras multisig, vou ter a xpub B.
+Elas não são iguais.
+A dúvida é:
+A única mudança que gerou essa xpub diferente foi o caminho de derivação diferente ou há outras variáveis também?
+* O que é Script Semantics?
+
+* Em um hard fork, vender suas moedas na rede "perdedora" (bch, bsv...) não ajudaria a expor suas UTXOs também na rede correta? Não seria considerado uma reutilização do endereço?
+* Como as carteiras pagam os fees dos mineradores, se elas nao sabem qual minerador vai acertar o proximo bloco?
+
+* [Movimento pra ativar CTV sendo iniciado](https://x.com/4moonsettler/status/1860658217983861233)
+* [O que está acontecendo na testnet4?](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
+* [Transition to Post-Quantum Cryptography Standards](https://csrc.nist.gov/Projects/post-quantum-cryptography/news)
+* [Pubky: Projeto da empresa do Miguel que usa a Mainline DHT pra distribuir informações](https://pubky.org/)
+* [Faço uma continuação sobre o CTB6?](https://tabctb.com/six/thebeginning/thetree/grim/iacceptyourterms.html)
+* [Como é o funding do Bitcoin Core?](https://s3.amazonaws.com/1a1z.com/files/1A1z%20-%20Funding%20Bitcoin%20-%20Part%201.pdf)
+* [Bitcoin não custodial por e-mail, sem necessidade de se criar carteira](https://emailbtc.net/)
+* [Bitcoin Core 28](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-28.0.md)
+* [Bug resolvido](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
+* [Stable de real usando Taproot Assets](https://bitcoinnews.com/press-release/joltz-eulen-stablecoin-on-lightning-depix/)
+* [Floresta 7](https://github.com/vinteumorg/Floresta/releases/tag/0.7.0)
+* [DLC devkit](https://bennyb.dev/blog/dlcdevkit)
 
 
 
