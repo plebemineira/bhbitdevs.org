@@ -48,10 +48,7 @@ Seu nome, o que faz e por que está aqui! Fique a vontade para manter a anonimid
 
 * Se eu usar 12 palavras singlesig vou ter a xpub A.
 Se eu usar as mesmas 12 palavras multisig, vou ter a xpub B.
-Elas não são iguais.
-
-A dúvida é:
-A única mudança que gerou essa xpub diferente foi o caminho de derivação diferente ou há outras variáveis também?
+Elas não são iguais. A dúvida é: A única mudança que gerou essa xpub diferente foi o caminho de derivação diferente ou há outras variáveis também?
 
 * O que é Script Semantics?
 
