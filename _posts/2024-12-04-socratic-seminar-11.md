@@ -17,21 +17,17 @@ title: "Seminário Socrático 11"
 ## Formato
 
 Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
+É a reunião do legislativo Bitcoiner, focado no desenvolvimento técnico do protocolo.
 
 ## Apresentações
 
-Seu nome, o que faz e por que está aqui!
+Seu nome, o que faz e por que está aqui! Fique a vontade para manter a anonimidade.
 
 ## Aquecimento
-* `UnidosPeloTesouroDireto`: Com qual frequência um node repassa blocos ou transações inválidas? Li que são necessárias “algumas transações inválidas” para que um node exclua outro e coloque ele na "lista negra"? Essa "lista negra" é apenas daquele node ou é passada pra frente? Se eu atualizar meu node para 22 milhões de BTC, ele desconecta da rede na hora?
-* [RAMBO Attack Steals Sensitive Data from Air-gapped Systems](https://primal.net/e/note17ar26fhcete70mjsfjcqdd0rylmy7y699243ld70jqc24wnr05wsc48aud)
-* Evolução dos Miners de loteria
-  * [Bitaxe Gamma](https://x.com/altair_tech/status/1836419203080790024?t=ot7P3VJlhN9FQnpbRq5pEQ&s=19)
-  * [BMM 101](https://shop.braiins.com/products/braiins-mini-miner-bmm-101-pre-order-12-2024)
-* [The Key to FROST: What is Distributed Key Generation?](https://blog.blockstream.com/the-key-to-frost-what-is-distributed-key-generation/)
-* [243 milhões de dólares pelo ralo…](https://x.com/lopp/status/1836757720713547975?s=46&t=zAjxz5gV-hM4odRtK474uA)
 
-
+* [Como foi a Satsconf?](https://www.satsconf.com.br/)
+*[Diretor de Produtos da Coinbase falando pra usuários não usarem VPN. CSO da Kraken discorda.](https://x.com/c7five/status/1863783134732394908)
+*[Google mostra balanços na pesquisa.](https://www.google.com/search?q=bc1q9x95gufy4cze5w3ayaa3wkw648av4m59e7utphv92a4cqxtlrp6sezwapz)
  
 ## Tópicos
 
