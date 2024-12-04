@@ -80,6 +80,3 @@ Elas não são iguais. A dúvida é: A única mudança que gerou essa xpub difer
 * [Stable de real usando Taproot Assets](https://bitcoinnews.com/press-release/joltz-eulen-stablecoin-on-lightning-depix/)
 * [Floresta 0.7](https://github.com/vinteumorg/Floresta/releases/tag/0.7.0)
 * [DLC devkit](https://bennyb.dev/blog/dlcdevkit)
-
-## Outros
-
