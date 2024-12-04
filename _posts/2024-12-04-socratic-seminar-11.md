@@ -12,6 +12,7 @@ title: "Seminário Socrático 11"
 
 - Agradecemos à [Vinteum](https://vinteum.org/) pelo apoio ao evento;
 - Agradecemos à [Vanq](https://vanq.co/en/) pela disponibilização do espaço!
+- Agradecemos à [Livecoins](https://livecoins.com.br/) pela HH e divulgação!
 
 ## Formato
 
@@ -19,7 +20,7 @@ Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
 ## Apresentações
 
-Seu nome e seu bairro!
+Seu nome, o que faz e por que está aqui!
 
 ## Aquecimento
 * `UnidosPeloTesouroDireto`: Com qual frequência um node repassa blocos ou transações inválidas? Li que são necessárias “algumas transações inválidas” para que um node exclua outro e coloque ele na "lista negra"? Essa "lista negra" é apenas daquele node ou é passada pra frente? Se eu atualizar meu node para 22 milhões de BTC, ele desconecta da rede na hora?
@@ -60,6 +61,7 @@ A única mudança que gerou essa xpub diferente foi o caminho de derivação dif
 * Como as carteiras pagam os fees dos mineradores, se elas nao sabem qual minerador vai acertar o proximo bloco?
 
 * [Movimento pra ativar LNHANCE sendo iniciado - CTV/CSFS/PAIRCOMMIT/INTERNALKEY](https://x.com/4moonsettler/status/1860658217983861233)
+* [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 * [O que está acontecendo na testnet4?](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
 * [Transition to Post-Quantum Cryptography Standards](https://csrc.nist.gov/Projects/post-quantum-cryptography/news)
 * [Pubky: Projeto da empresa do Miguel que usa a Mainline DHT pra distribuir informações](https://pubky.org/)
@@ -70,17 +72,10 @@ A única mudança que gerou essa xpub diferente foi o caminho de derivação dif
 * [Bugs resolvidos]
 * * [Crash dos nodes](https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/)
   * [DDoS](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
+  * [Propagação dos blocos](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 * [Stable de real usando Taproot Assets](https://bitcoinnews.com/press-release/joltz-eulen-stablecoin-on-lightning-depix/)
-* [Floresta 7](https://github.com/vinteumorg/Floresta/releases/tag/0.7.0)
+* [Floresta 0.7](https://github.com/vinteumorg/Floresta/releases/tag/0.7.0)
 * [DLC devkit](https://bennyb.dev/blog/dlcdevkit)
 
-
-
 ## Outros
-* [O que acontece se a Coinbase for hackeada e perder absolutamente tudo?
-](https://x.com/francispouliot_/status/1832003127676977495?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* ["I'm proposing to stop the processing of unrequested transactions in Bitcoin
-Core 22.0+ at TX message reception."](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-February/018391.html)
-* [Ark is pretty cool](https://x.com/2ndbtc/status/1837875577761812577?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [56 mil nós de BTC](https://x.com/lopp/status/1838183115061080231?s=46&t=zAjxz5gV-hM4odRtK474uA)
-* [Bolt 12 merged!](https://x.com/nobsbitcoin/status/1838670063504613505?s=46&t=zAjxz5gV-hM4odRtK474uA)
+
