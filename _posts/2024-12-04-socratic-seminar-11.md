@@ -25,7 +25,7 @@ Seu nome, o que faz e por que está aqui! Fique a vontade para manter a anonimid
 
 ## Aquecimento
 
-* [Como foi a Satsconf?](https://www.satsconf.com.br/)
+*[Como foi a Satsconf?](https://www.satsconf.com.br/)
   
 *[Diretor de Produtos da Coinbase falando pra usuários não usarem VPN. CSO da Kraken discorda.](https://x.com/c7five/status/1863783134732394908)
 
