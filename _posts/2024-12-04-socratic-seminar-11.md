@@ -31,6 +31,14 @@ Seu nome, o que faz e por que está aqui! Fique a vontade para manter a anonimid
 *[Diretor de Produtos da Coinbase falando pra usuários não usarem VPN. CSO da Kraken discorda.](https://x.com/c7five/status/1863783134732394908)
 
 *[Google mostra balanços na pesquisa.](https://www.google.com/search?q=bc1q9x95gufy4cze5w3ayaa3wkw648av4m59e7utphv92a4cqxtlrp6sezwapz)
+
+*[O Bitcoin é como o ouro mas, digital - Powell](https://x.com/joeconsorti/status/1864400582145966453?s=46&t=haY3U2sIF6LAnBfzD2WVxw)
+
+*[SEC pró-Bitcoin](https://x.com/BitcoinMagazine/status/1864367383571243480)
+
+*[Quem pode proibir o Bitcoin? Ninguém](https://x.com/BitcoinNewsCom/status/1864313687244222859)
+
+*[Recorde captação ETFs em novembro](https://x.com/caueconomy/status/1863902571401712120?s=46&t=haY3U2sIF6LAnBfzD2WVxw)
  
 ## Tópicos
 
