@@ -36,10 +36,14 @@ Seu nome e seu bairro!
 
 
 * Gostaria de aprender mais sobre multisig bitcoin e quais seriam as melhores formas de gerenciar mais de uma carteira Bitcoin
+* 
 * Como você vê o impacto das soluções de segunda camada, como a Lightning Network, na escalabilidade do Bitcoin?
+* 
 * Quanto custa/necessário para criar um pool/channel Lightning Network.(necessário em termos de hardware).
   * Vale a pena ter um No/channel Lightning Network?
+  * 
 * Existe algum desenvolvimento técnico ou proposta recente no Bitcoin Core que você acredita ser revolucionária para o protocolo?
+* 
 * Quais os riscos de fazer DeFi com bitcoin?
 
 * Se eu usar 12 palavras singlesig vou ter a xpub A.
