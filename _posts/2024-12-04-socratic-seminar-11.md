@@ -17,6 +17,7 @@ title: "Seminário Socrático 11"
 ## Formato
 
 Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
+
 É a reunião do legislativo Bitcoiner, focado no desenvolvimento técnico do protocolo.
 
 ## Apresentações
