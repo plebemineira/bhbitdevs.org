@@ -26,10 +26,7 @@ Seu nome, o que faz e como chegou até aqui! Fique a vontade para manter a anoni
 
 ## Aquecimento
 
-* Em uma live com o Narcélio, Diego disse que a anotação da seed caminha para ser uma coisa do passado. Qual o novo método para guardar btcs com privacidade?
-<p>&nbsp;</p>
-* Como funciona o time locking do bitcoin? Qual a maneira mais interessante de travar uma UTXO por 1 ano, por exemplo?
-<p>&nbsp;</p>
+
 
 ## Tópicos Bitcoin
 
