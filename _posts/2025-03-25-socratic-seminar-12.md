@@ -25,9 +25,8 @@ Seu nome, o que faz e como chegou até aqui! Fique a vontade para manter a anoni
 
 
 ## Aquecimento
-- [🚀📢 Announcing the new Vinteum Fellows! 📢🚀](https://x.com/Vinteum_org/status/1902786458089394653)
-
-- Bitcoin++ Floripa - Feedback
+- [Announcing the new Vinteum Fellows! 📢🚀](https://x.com/Vinteum_org/status/1902786458089394653)
+- Bitcoin++ Floripa - Overview
   - [Misfit Core](https://devpost.com/software/misfit-core)
 - Create a LoRa network with [Meshtastic](https://meshtastic.org/) for Belo Horizonte and region
 - UnidosPeloTesouroDireto: Todos os endereços possuem uma chave privada? Um endereço multisig possui uma chave privada desconhecida?
