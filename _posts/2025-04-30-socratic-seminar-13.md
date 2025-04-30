@@ -54,5 +54,6 @@ Brevemente, seu nome, o que faz e se for sua primeira vez, como descobriu o bitd
 ## Extras
 - [BitRaffle - Trustless raffle based in bip 32](https://github.com/juancolchete/bitraffle)
 - [LuckyHash - turn your TV lottery miner](https://devpost.com/software/luckyhash)
-    - https://github.com/jvsena42/LuckyHash
+    - https://github.com/jvsena42/LuckyHash    
 - [POS em ESP32 que aceita pagamentos em lightning](https://github.com/Libertariamemes/BTC-Lightning-POS-esp32)
+- [Peter Todd wants to remove arbitrary limits on OP_RETURN](https://github.com/bitcoin/bitcoin/pull/32359)
