@@ -37,7 +37,7 @@ Brevemente, seu nome, o que faz e se for sua primeira vez, como descobriu o bitd
     - https://x.com/mononautical/status/1912019931530666108
     - https://mempool.space/tx/2e3518fe87c37927e74b0cc87fe67702307468800b7c141ad609f95ce8fcd081
 - [Bitcoin Address Poisoning Attacks](https://blog.lopp.net/bitcoin-address-poisoning-attacks/)
-- [A simple backup scheme for wallet accounts](https://delvingbitcoin.org/t/fee-based-spam-prevention-for-lightning/1524)
+- [A simple backup scheme for wallet accounts](https://delvingbitcoin.org/t/a-simple-backup-scheme-for-wallet-accounts/1607)
 - [Bitcoin Core v29.0 released ](https://bitcoincore.org/en/releases/29.0/)
 
 ## Tópicos Lightning / Layer 2
