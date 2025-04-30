@@ -28,6 +28,7 @@ Brevemente, seu nome, o que faz e se for sua primeira vez, como descobriu o bitd
 ## Aquecimento
 - UnidoPeloTesouroDireto: Uma chave privada tem 256 bits de entropia e dizem que é seguro. Porque uma chave gpg é criada com 4096 bits?
 - [The 68-bit Bitcoin puzzle has been cracked!](https://x.com/lianabitcoin/status/1909573460910649832)
+    - [btcpuzzle](https://btcpuzzle.info/puzzle) 
 
 ## Tópicos Bitcoin
 - [How long does it take for a transaction to propagate through the network?](https://bitcoin.stackexchange.com/questions/125776/how-long-does-it-take-for-a-transaction-to-propagate-through-the-network)
