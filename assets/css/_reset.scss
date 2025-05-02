@@ -32,11 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style-type: "* ";
 	padding-left: 2ch;
-}
-li:before {
-    content: "* ";
 }
 blockquote, q {
 	quotes: none;
