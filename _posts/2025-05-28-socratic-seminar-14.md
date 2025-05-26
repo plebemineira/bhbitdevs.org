@@ -27,6 +27,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Aquecimento
 - UnidoPeloTesouroDireto: Não há limite para tentativa de força bruta em um endereço bitcoin, porém no caso de um banco, em apenas 3 tentativas o acesso é bloqueado. Porque então os bancos necessitam de criptografia forte?
+- Primeira conferência sobre [Bitcoin e IA](https://x.com/brenorb/status/1920993468735701242)
+
 
 ## Tópicos Bitcoin
 - [Tornando a Memppol mais eficiente através de cluster linearization](https://bitcoinops.org/en/newsletters/2025/05/02/)
@@ -37,6 +39,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Increasing or removing Bitcoin Core’s OP_RETURN size limit](https://bitcoinops.org/en/newsletters/2025/05/02/)
 - BIP 443: [OP_CHECKCONTRACTVERIFY](https://github.com/bitcoin/bips/pull/1793)
     - [Twitter](https://x.com/salvatoshi/status/1920952745412227578)
+- [Weighted multisig](https://x.com/mononautical/status/1921012232747421892?s=46)    
 - [Samourai Dojo](https://x.com/PavelTheCoder/status/1925609407171190902) v1.27.0 is out
 
 ## Tópicos Lightning / Layer 2
