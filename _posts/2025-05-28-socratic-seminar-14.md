@@ -31,7 +31,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 
 ## Tópicos Bitcoin
-- [Tornando a Memppol mais eficiente através de cluster linearization](https://bitcoinops.org/en/newsletters/2025/05/02/)
+- [Tornando a mempool mais eficiente através de cluster linearization](https://bitcoinops.org/en/newsletters/2025/05/02/)
     - [delvingbitcoin.org/t/how-to-linearize-your-cluster/303/68](https://delvingbitcoin.org/t/how-to-linearize-your-cluster/303/68)
     - [delvingbitcoin.org/t/how-to-linearize-your-cluster/303/73](https://delvingbitcoin.org/t/how-to-linearize-your-cluster/303/73)
 - [BIPs #1555](https://github.com/bitcoin/bips/issues/1555) merges [BIP321](https://github.com/bitcoin/bips/blob/master/bip-0321.mediawiki), which proposes a URI scheme for describing bitcoin payment instructions that modernizes and extends [BIP21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki).
