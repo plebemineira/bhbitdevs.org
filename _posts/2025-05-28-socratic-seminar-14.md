@@ -48,3 +48,4 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 ## Extras
 - 4500,00 USD para quem fizer a [melhor pior carteira brainrot](https://x.com/salvatoshi/status/1920952745412227578)
 - BTC++ 25 Las Vegas com [143 projetos cadastrados](https://b25.devpost.com/project-gallery) em seu Hackathon e dois são de BH!
+- Vinteum lança série de eventos [“Bitcoin Students Day”](https://livecoins.com.br/vinteum-lanca-serie-de-eventos-bitcoin-students-day-para-universitarios-em-todo-o-brasil/)
