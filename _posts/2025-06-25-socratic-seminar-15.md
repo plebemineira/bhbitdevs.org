@@ -46,7 +46,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
     - [Post X](https://xcancel.com/jamesob/status/1932030765618848161)
 - [Bitcoin and Quantum Computing:Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
     - [Quantum bitcoin mining](https://www.mdpi.com/1099-4300/24/3/323)
-- [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes/1742)
 
 ## Tópicos Lightning / Layer 2
 - É possível abrir um canal em uma única transação? coldstorage -> canal em vez de coldstorage -> lnd -> canal
