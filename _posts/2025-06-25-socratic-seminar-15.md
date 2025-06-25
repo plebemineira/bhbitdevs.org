@@ -61,6 +61,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - Tips to protect your address against deanonymization and blockchain analysis attacks
     - [Lightning](https://www.voltage.cloud/blog/lightning-network-privacy-explainer)
         - Bolt 12 - [Blinded paths](https://www.voltage.cloud/blog/what-are-blinded-paths-and-how-do-they-work)
+            - [PR do Pins no LND](https://github.com/lightningnetwork/lnd/pull/9127)
     - [Payjoin](https://payjoin.org/docs/how-it-works/payjoin-v2-bip-77/)
     - [Coinjoin](https://docs.wasabiwallet.io/why-wasabi/Coins.html)
         - [Wasabi](https://wasabiwallet.io/)
