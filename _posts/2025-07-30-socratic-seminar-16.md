@@ -69,3 +69,15 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
     - [Formação prática e gratuita em design aplicado ao ecossistema Bitcoin](https://bitcoincreative.org/design-fundamentals)
 
 - Vagas
+    - [Bitcoin Data Analyst (Creative, Chart-Driven Storyteller)](https://bitcoinerjobs.com/job/1781926-bitcoin-data-analyst-creative-chart-driven-storyteller-21st-capital)
+    - [Senior Backend Developer](https://bitcoinerjobs.com/job/1726646-senior-backend-developer-amboss-technologies)
+    - [Hardware Wallet Firmware Developer](https://bitcoinerjobs.com/job/1775984-hardware-wallet-firmware-developer-blockstream)
+    - [Senior Front End Engineer](https://bitcoinerjobs.com/job/1774849-senior-front-end-engineer-fold)
+    - [Data Engineer](https://bitcoinerjobs.com/job/1782214-data-engineer-swan-bitcoin)
+    - [Head of Technology](https://bitcoinerjobs.com/job/1778899-head-of-technology-relai)
+    - [Principal Infrastructure Security Engineer](https://bitcoinerjobs.com/job/1785462-principal-infrastructure-security-engineer-unchained-capital)
+    - [CTO Co-Founder](https://bitcoinerjobs.com/job/1783589-cto-co-founder-bitroundapp)
+    - [Lead QA Engineer](https://bitcoinerjobs.com/job/1786815-lead-qa-engineer-fold)
+    - [Senior DevOps Engineer](https://bitcoinerjobs.com/job/1785459-senior-devops-engineer-unchained-capital)
+    - [Senior Software Engineer](https://bitcoinerjobs.com/job/1785460-senior-software-engineer-unchained-capital)
+    - [Software Engineer](https://bitcoinerjobs.com/job/1785461-software-engineer-unchained-capital)
