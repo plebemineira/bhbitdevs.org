@@ -60,6 +60,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Extras
 
+- [The Importance of Randomness in Signatures](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08_signatures.adoc#the-importance-of-randomness-in-signatures)
 - [Casa21 creates high-level infrastructure to run Bitcoin services for the Brazilian community](https://xcancel.com/casavinteum/status/1940809493438451936)
 - **Victor Stabile**: Pessoal, publiquei hoje um trabalho que unifica as leis da física. Uma consequencia importante para o bitcoin é que ele mostra que não existe um estado quântico global que seria necessário para a etapa de quantum fourier transform do algoritmo de Shor que quebraria as chaves do bitcoin. Não é apenas uma questão de descobrir formas melhores de quantum error correction, mas também teria um custo alto de entropia pra tornar um circuito suficientemente grande plano o suficiente pra executar um ataque prático.
     - [Link artigo](https://www.texstr.org/a/naddr1qvzqqqr4gupzqwe6gtf5eu9pgqk334fke8f2ct43ccqe4y2nhetssnypvhge9ce9qqxnzde4xy6rydfcxqunsv35vk8jrc)
