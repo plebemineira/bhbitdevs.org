@@ -60,6 +60,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Extras
 
+- [Lightning bounties - Bitcoin bounties on GitHub](https://www.lightningbounties.com/)
 - [The Importance of Randomness in Signatures](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08_signatures.adoc#the-importance-of-randomness-in-signatures)
     - [How can you extract secret keys from ECDSA by doing: d = (((s1 * k) - h1) * r^-1) % n and how RFC6979 fix it](https://gist.github.com/jaonoctus/dd1556d4dcbf7ac246f877255a92b341?s=09)
 - [Casa21 creates high-level infrastructure to run Bitcoin services for the Brazilian community](https://xcancel.com/casavinteum/status/1940809493438451936)
