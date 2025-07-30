@@ -40,6 +40,10 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [Running bitcoin - From Core to Code. A Comparison of Clients (1A1z)](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
     - [Link X](https://xcancel.com/1A1zBTC/status/1942329560118272113)
+- [BIP para adicionar UTREEXO features ao Bitcoin core](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
+    - [utreexo-accumulator-bip](https://github.com/utreexo/biptreexo/blob/main/utreexo-accumulator-bip.md)
+    - [utreexo-p2p-bip](https://github.com/utreexo/biptreexo/blob/main/utreexo-p2p-bip.md)
+    - [utreexo-validation-bip](https://github.com/utreexo/biptreexo/blob/main/utreexo-validation-bip.md)
 - [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
 - [Alpen labs announces Glock: A new standard for verification on Bitcoin](https://xcancel.com/alpenlabs/status/1945112781168238789)
 - [A simple example of Ephemeral Anchor, now standard on Bitcoin Core v0.29](https://xcancel.com/lifofifo/status/1944791111765045666)
