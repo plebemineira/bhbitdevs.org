@@ -33,7 +33,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: Por que quando se fala de mineração costuma-se falar sobre quantidade de zeros e porque quanto mais zeros maior a dificuldade para minerar o bloco?
     - [Sha256 converter](https://emn178.github.io/online-tools/sha256.html)
-    - [Base converter](https://emn178.github.io/online-tools/sha256.html)
+    - [Base converter](https://baseconvert.com/)
     - [Block header](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11_blockchain.adoc#block_header_structure_ch09)
 
 ## Tópicos Bitcoin
