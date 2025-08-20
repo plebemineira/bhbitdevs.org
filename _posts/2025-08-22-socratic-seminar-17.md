@@ -71,8 +71,3 @@ Como provar que esse endereço é meu? Como o 38tão mostraria que tem seus 200 
 - [Roubo pelo Milk Said](https://livecoins.com.br/erro-em-geracao-de-chave-privada-levou-a-roubo-de-us-35-bilhoes-em-bitcoin/)
 
 - [China Bane o Bitcoin](https://xcancel.com/mononautical/status/1951833867318415566)
-
-- Eventos e hackathons
-
-
-- Vagas
