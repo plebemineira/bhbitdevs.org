@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 16"
+title: "Seminário Socrático 17"
 ---
 ## Avisos
 - Respeite a privacidade dos participantes;
