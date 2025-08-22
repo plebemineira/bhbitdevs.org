@@ -36,6 +36,7 @@ Como provar que esse endereço é meu? Como o 38tão mostraria que tem seus 200 
 
 ## Tópicos Bitcoin
 
+- [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
 - [Writing Simplicity Programs with SimplicityHL](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
     - [SimplicityHL](https://github.com/BlockstreamResearch/SimplicityHL)
     - [rust-simplicity](https://github.com/BlockstreamResearch/rust-simplicity)
