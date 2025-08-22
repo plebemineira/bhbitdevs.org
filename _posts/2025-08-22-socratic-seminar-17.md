@@ -58,7 +58,7 @@ Como provar que esse endereço é meu? Como o 38tão mostraria que tem seus 200 
 - [Alpen Labs announce public testnet to our Alpen's EVM](https://xcancel.com/AlpenLabs/status/1952363933136031926)
     - [Alpen’s Public Testnet is live!](https://www.alpenlabs.io/blog/alpen-testnet)
 
-- [Lightning Swaps Between Protocols](https://x.com/ArkLabsHQ/status/1955617205967782203)
+- [Lightning Swaps Between Protocols](https://xcancel.com/ArkLabsHQ/status/1955617205967782203)
     - [Lightning swaps *are* the connective tissue](https://insider.btcpp.dev/p/lightning-swaps-are-the-connective)
 
 ## Mining
