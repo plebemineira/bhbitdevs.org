@@ -29,6 +29,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **UnidosPeloTesouroDireto**: Em um endereço multisig, nenhuma carteira mostra chave privada e nem permite assinar mensagem.
 Como provar que esse endereço é meu? Como o 38tão mostraria que tem seus 200 BTC?
+    - [BIP 322](https://bitcoinops.org/en/topics/generic-signmessage/#:~:text=The%20BIP322%20generic%20signed%20message,would%20be%20able%20to%20spend.)
 
 - **Victor Stabile**: Pessoal, publiquei hoje um trabalho que unifica as leis da física. Uma consequencia importante para o bitcoin é que ele mostra que não existe um estado quântico global que seria necessário para a etapa de quantum fourier transform do algoritmo de Shor que quebraria as chaves do bitcoin. Não é apenas uma questão de descobrir formas melhores de quantum error correction, mas também teria um custo alto de entropia pra tornar um circuito suficientemente grande plano o suficiente pra executar um ataque prático.
     - [Link artigo](https://www.texstr.org/a/naddr1qvzqqqr4gupzqwe6gtf5eu9pgqk334fke8f2ct43ccqe4y2nhetssnypvhge9ce9qqxnzde4xy6rydfcxqunsv35vk8jrc)
