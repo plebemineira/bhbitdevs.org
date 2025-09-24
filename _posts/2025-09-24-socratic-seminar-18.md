@@ -64,6 +64,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Tether announced plans to launch USDT on RGB](https://xcancel.com/Tether_to/status/1961041770705256851)
 
 - [Depix no BTC pay server](https://xcancel.com/thgO_O/status/1963649535411880112)
+    - [Blog post](https://blog.btcpayserver.org/depix-plugin/)
 
 ## Extras
 
