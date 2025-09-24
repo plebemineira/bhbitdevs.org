@@ -50,7 +50,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Provable Cryptography for Bitcoin: An Introduction (Workbook)](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
     - [Link X](https://x.com/n1ckler/status/1965431204326580530)
 
-- [Bitcoin Core 29.1 released](https://bitcoincore.org/en/releases/29.1/)
+- [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 
 - [Bitcoin Core v30.0 release candidate is available for tests](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/v30.0-Release-Notes-Draft)
     - [Google groups](https://groups.google.com/g/bitcoindev/c/DGZBYo1kPUk/m/srR4XpZUBAAJ)
@@ -59,6 +59,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [Introducing 𝚡𝟺𝟶𝟸-𝚖𝚌𝚙 - Bring x402 payments into Agents & MCP servers with the AI SDK.](https://xcancel.com/vercel/status/1966549876289999173)
 
+- [SamRock links mobile wallets like AQUA to BTCPay Server without manually uploading an XPUB](https://jan3.com/blog/samrock-protocol/?ref=btctimes.com&lang=de)
+
 - [Tether announced plans to launch USDT on RGB](https://xcancel.com/Tether_to/status/1961041770705256851)
 
 - [Depix no BTC pay server](https://xcancel.com/thgO_O/status/1963649535411880112)
@@ -66,6 +68,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 ## Extras
 
 - [Decentralized TCP Proxy over Nostr Protocol](https://github.com/girino/tcp-over-nostr)
+
+- [A Decentralized LLM Routing Marketplace powered by Cashu and Nostr.](https://routstr.com/)
 
 - [Inscrições abertas para o curso da librería de satoshi sobre os princípios do Bitcoin Core. Com versão em português!](https://x.com/btrust_builders/status/1963893611134640489)
 
