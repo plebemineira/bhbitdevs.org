@@ -30,6 +30,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Satsconf chegando!](https://satsconf.com.br)
   - [Vagas sobrando no hostel que reservamos para a nossa comunidade de devs durante a São Paulo Bitcoin Week](https://xcancel.com/Vinteum_org/status/1977857939588169868)
 
+- [Feedback TabConf 7](https://xcancel.com/miketwenty1/status/1981072515939086619)
+
 - [Brasil é o país com mais comércios aceitando Bitcoin no mundo, superando EUA e El Salvador](https://livecoins.com.br/brasil-e-o-pais-com-mais-comercios-aceitando-bitcoin-no-mundo/)
 
 - [A Breez lança o desafio Time2Build, com US$ 25 000 em prêmios para times que integrem o Breez SDK em projetos open source.](https://time2build.dev)
@@ -70,4 +72,11 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Vinteum announces @gustingelin as new fellow](https://xcancel.com/Vinteum_org/status/1980725315610767778)
 
 - [Opensats announces new grants. @jaoleal, a brazilian contributor of Floresta, is among them.](https://opensats.org/blog/fourteenth-wave-of-bitcoin-grants#floresta)
+- [TabConf 7 CTB](https://tabctb.com/0x07)
 
+  - [jaoNoctus was here! (again)](https://xcancel.com/jaoNoctus/status/1978893958269788527)
+
+
+- [Spark Invoice Analysis Tool](https://github.com/eddieoz/spark-decode-demo)
+
+- [Governo dos EUA pode ter usado vulnerabilidade em carteiras para realizar maior confisco de Bitcoin da história](https://livecoins.com.br/governo-dos-eua-usou-vulnerabilidade-para-realizar-maior-confisco-de-bitcoin/)
