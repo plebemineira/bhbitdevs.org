@@ -28,6 +28,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 ## Aquecimento
 
 - [Satsconf chegando!](https://satsconf.com.br)
+  - [Bitdevs em SP](https://www.meetup.com/pt-BR/clubebitcoinsp/events/311673674/)
   - [Vagas sobrando no hostel que reservamos para a nossa comunidade de devs durante a São Paulo Bitcoin Week](https://xcancel.com/Vinteum_org/status/1977857939588169868)
 
 - [Feedback TabConf 7](https://xcancel.com/miketwenty1/status/1981072515939086619)
@@ -40,11 +41,15 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [BIP Draft - Emoji Seed Mnemonics for Deterministic Keys](https://groups.google.com/g/bitcoindev/c/2oeo-VB2QtY)
 
+- Para que serve o fingerprint? A bluewallet só permite importar multisig se vier com fingerprint. A jade só permite assinar transação singlesig ou multisig se tiver sido criada com fingerprint.
+
 ## Tópicos Bitcoin
 
 - [Bitcoin v30.0 Release](https://bitcoincore.org/en/releases/30.0/)
 
 - [Bitcoin v29.1 Release](https://bitcoincore.org/en/releases/29.2/)
+
+- [PR musig2 mergeado](https://github.com/bitcoin/bitcoin/pull/29675)
 
 - [FROST + BDK](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY) 
 
@@ -77,6 +82,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [jaoNoctus was here! (again)](https://xcancel.com/jaoNoctus/status/1978893958269788527)
 
 
-- [Spark Invoice Analysis Tool](https://github.com/eddieoz/spark-decode-demo)
+- [Como a Wallet of Satoshi Comprometeu a Privacidade na Lightning Network](https://www.eddieoz.com/como-a-wallet-of-satoshi-comprometeu-a-privacidade-na-lightning-network/)
+  - [Spark Invoice Analysis Tool](https://github.com/eddieoz/spark-decode-demo)
 
 - [Governo dos EUA pode ter usado vulnerabilidade em carteiras para realizar maior confisco de Bitcoin da história](https://livecoins.com.br/governo-dos-eua-usou-vulnerabilidade-para-realizar-maior-confisco-de-bitcoin/)
