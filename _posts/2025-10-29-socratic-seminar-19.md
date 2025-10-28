@@ -31,15 +31,10 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Bitdevs em SP](https://www.meetup.com/pt-BR/clubebitcoinsp/events/311673674/)
   - [Vagas sobrando no hostel que reservamos para a nossa comunidade de devs durante a São Paulo Bitcoin Week](https://xcancel.com/Vinteum_org/status/1977857939588169868)
 
-- [Feedback TabConf 7](https://xcancel.com/miketwenty1/status/1981072515939086619)
 
 - [Brasil é o país com mais comércios aceitando Bitcoin no mundo, superando EUA e El Salvador](https://livecoins.com.br/brasil-e-o-pais-com-mais-comercios-aceitando-bitcoin-no-mundo/)
 
 - [A Breez lança o desafio Time2Build, com US$ 25 000 em prêmios para times que integrem o Breez SDK em projetos open source.](https://time2build.dev)
-
-- [Floresta Mobile Node](https://github.com/jvsena42/floresta_node)
-
-- [BIP Draft - Emoji Seed Mnemonics for Deterministic Keys](https://groups.google.com/g/bitcoindev/c/2oeo-VB2QtY)
 
 - Para que serve o fingerprint? A bluewallet só permite importar multisig se vier com fingerprint. A jade só permite assinar transação singlesig ou multisig se tiver sido criada com fingerprint.
 
@@ -50,6 +45,10 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Bitcoin v29.1 Release](https://bitcoincore.org/en/releases/29.2/)
 
 - [PR musig2 mergeado](https://github.com/bitcoin/bitcoin/pull/29675)
+
+- [Floresta Mobile Node](https://github.com/jvsena42/floresta_node)
+
+- [BIP-444(?): Reduced Data Temporary Softfork](https://github.com/dathonohm/bips/blob/reduced-data/bip-%3F%3F%3F%3F.mediawiki)
 
 - [FROST + BDK](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY) 
 
@@ -74,6 +73,9 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Extras
 
+- [Banco Central da Alemanha conclui que Bitcoin é um ativo complementar ao ouro no papel de reservas de bancos centrais](https://www.dbresearch.com/PROD/RI-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000603643)
+- [Feedback TabConf 7](https://xcancel.com/miketwenty1/status/1981072515939086619)
+
 - [Vinteum announces @gustingelin as new fellow](https://xcancel.com/Vinteum_org/status/1980725315610767778)
 
 - [Opensats announces new grants. @jaoleal, a brazilian contributor of Floresta, is among them.](https://opensats.org/blog/fourteenth-wave-of-bitcoin-grants#floresta)
@@ -86,3 +88,4 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Spark Invoice Analysis Tool](https://github.com/eddieoz/spark-decode-demo)
 
 - [Governo dos EUA pode ter usado vulnerabilidade em carteiras para realizar maior confisco de Bitcoin da história](https://livecoins.com.br/governo-dos-eua-usou-vulnerabilidade-para-realizar-maior-confisco-de-bitcoin/)
+- [BIP Draft - Emoji Seed Mnemonics for Deterministic Keys](https://groups.google.com/g/bitcoindev/c/2oeo-VB2QtY)
