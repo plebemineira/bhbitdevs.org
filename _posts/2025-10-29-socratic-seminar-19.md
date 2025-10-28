@@ -73,6 +73,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Extras
 
+- [Banco Central da Alemanha conclui que Bitcoin é um ativo complementar ao ouro no papel de reservas de bancos centrais](https://www.dbresearch.com/PROD/RI-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000603643)
 - [Feedback TabConf 7](https://xcancel.com/miketwenty1/status/1981072515939086619)
 
 - [Vinteum announces @gustingelin as new fellow](https://xcancel.com/Vinteum_org/status/1980725315610767778)
