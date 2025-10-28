@@ -64,8 +64,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [Stark verifier using simplicity](https://xcancel.com/monsieur_kus/status/1971261441782268368)
 
-- [Autoloop](https://docs.lightning.engineering/lightning-network-tools/loop/autoloop)
-
 - [Arkade launches on Bitcoin mainnet in public beta. A Virtual Execution Layer for Bitcoin-Native Applications.](https://arkadeos.com/)
 
   - [https://xcancel.com/arkade_os/status/1980607782945485056](https://xcancel.com/arkade_os/status/1980607782945485056)
