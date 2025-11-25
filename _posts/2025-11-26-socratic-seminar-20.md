@@ -49,9 +49,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **Jonatanc05**: Qual a política em relação a um BIP citar shitcoins? Me surpreendeu bastante:
  - [BIP 0044](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki#coin-type)
-
-- [Post-quantum signature aggregation](https://gnusha.org/pi/bitcoindev/05195086-ee52-472c-962d-0df2e0b9dca2n@googlegroups.com/)
-  - [Bitcoinops](https://bitcoinops.org/en/newsletters/2025/11/07/)
  
 
 ## Tópicos Lightning / Layer 2
