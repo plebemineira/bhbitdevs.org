@@ -43,13 +43,12 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [Bitcoin Core now has an interface for its consensus code](https://xcancel.com/the_charlatan_/status/1985744733029982588?t=iD4yFAN8LVHUvaXwM8exVg&s=19)
 
-- **Jonatanc05**: Ajudem-me a entender a história dos forks de Bitcoin. Por exemplo, por que não vejo Bitcoin Cash na lista?
- - https://en.wikipedia.org/wiki/List_of_bitcoin_forks
+- **Jonatanc05**: Ajudem-me a entender a história dos [forks de Bitcoin](https://en.wikipedia.org/wiki/List_of_bitcoin_forks). Por exemplo, por que não vejo Bitcoin Cash na lista?
 
 - [How SegWit solved the quadratic sighash problem](https://fjahr.com/posts/how-segwit-solved-the-quadratic-sighash-problem/)
 
 - **Jonatanc05**: Qual a política em relação a um BIP citar shitcoins? Me surpreendeu bastante:
- - https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki#coin-type
+ - [BIP 0044](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki#coin-type)
 
 - [Post-quantum signature aggregation](https://gnusha.org/pi/bitcoindev/05195086-ee52-472c-962d-0df2e0b9dca2n@googlegroups.com/)
   - [Bitcoinops](https://bitcoinops.org/en/newsletters/2025/11/07/)
