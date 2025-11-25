@@ -37,6 +37,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [pkarr-based seed discovery for bitcoin nodes](https://github.com/MiguelMedeiros/bips/pull/1)
 
+- [Cluster mempool](https://github.com/bitcoin/bitcoin/pull/33629)
+
 - [Remove dashjr DNS seed from Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/33723)
 
 - [Bitcoin Core now has an interface for its consensus code](https://xcancel.com/the_charlatan_/status/1985744733029982588?t=iD4yFAN8LVHUvaXwM8exVg&s=19)
