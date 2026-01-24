@@ -36,15 +36,13 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Bitcoin
 
-- mempool.space (running core V30) with [more precise fee rate](https://mempool.space/testnet4/docs/api/rest#get-recommended-fees-precise)
+- [mempool.space](https://mempool.space/pt/) (running core V30) with [more precise fee rate](https://mempool.space/testnet4/docs/api/rest#get-recommended-fees-precise)
 
 - [Incremental mutation testing in the Bitcoin Core](https://delvingbitcoin.org/t/incremental-mutation-testing-in-the-bitcoin-core/2197)
 
 - [Wallet Migration Failure](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/) May Delete Unrelated Wallet Files In Bitcoin Core 30.0 and 30.1
 
-- Bruno Garcia: [Security Concerns Regarding Floresta’s Address Relay and AddrMan Implementation] (https://brunoerg.xyz/2026/01/16/floresta-security-addr.html)
-
-
+- **Bruno Garcia**: [Security Concerns Regarding Floresta’s Address Relay and AddrMan Implementation](https://brunoerg.xyz/2026/01/16/floresta-security-addr.html)
 
 
 ## Tópicos Lightning / Layer 2
