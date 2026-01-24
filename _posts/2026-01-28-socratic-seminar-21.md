@@ -42,6 +42,10 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [Wallet Migration Failure](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/) May Delete Unrelated Wallet Files In Bitcoin Core 30.0 and 30.1
 
+- Bruno Garcia: [Security Concerns Regarding Floresta’s Address Relay and AddrMan Implementation] (https://brunoerg.xyz/2026/01/16/floresta-security-addr.html)
+
+
+
 
 ## Tópicos Lightning / Layer 2
 
