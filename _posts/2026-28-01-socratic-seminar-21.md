@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 20"
+title: "Seminário Socrático 21"
 ---
 ## Avisos
 - Respeite a privacidade dos participantes;
@@ -45,7 +45,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Lightning / Layer 2
 
-
+- [A Mathematical Theory of Payment Channel Networks](https://delvingbitcoin.org/t/a-mathematical-theory-of-payment-channel-networks/2204)
 
 ## Extras
 
