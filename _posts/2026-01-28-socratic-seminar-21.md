@@ -10,9 +10,9 @@ title: "Seminário Socrático 21"
 
 ## Agradecimentos
 
-- [Vinteum](https://vinteum.org/);
-- [Livecoins](https://livecoins.com.br/);
-- [Unihorizontes](https://unihorizontes.br/);
+- [Vinteum](https://vinteum.org/)
+- [Livecoins](https://livecoins.com.br/)
+- [Unihorizontes](https://unihorizontes.br/)
 - [Clube Bitcoin UFMG](https://x.com/UFMGBitcoinClub)
 
 ## Formato
@@ -44,6 +44,17 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **Bruno Garcia**: [Security Concerns Regarding Floresta’s Address Relay and AddrMan Implementation](https://brunoerg.xyz/2026/01/16/floresta-security-addr.html)
 
+- [2025 Bitcoin Node Performance Tests](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+
+- Bithoven: A Formally Verified, Imperative Smart Contract Language for Bitcoin
+  - [Stacker News](https://stacker.news/items/1416770)
+  - [GitHub](https://github.com/ChrisCho-H/bithoven)
+  - [Artigo](https://arxiv.org/pdf/2601.01436)
+  - [Delving Bitcoin](https://delvingbitcoin.org/t/bithoven-a-formally-verified-imperative-smart-contract-language-for-bitcoin/2189)
+
+- [Bitcoin Core has a new mainteiner](https://xcancel.com/_pretyflaco/status/2009331785717682474)
+
+- BIP-0003: [Updated BIP Process](https://github.com/bitcoin/bips/blob/master/bip-0003.md)
 
 ## Tópicos Lightning / Layer 2
 
