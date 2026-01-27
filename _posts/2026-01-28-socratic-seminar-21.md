@@ -28,11 +28,11 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Aquecimento
 
-- **UnidosPeloTesouroDireto**: Se o atacante souber sua chave pública e conseguir alguma das chaves privadas, ele consegue calcular a chave privada estendida? Como isso funciona? Quais os riscos?
-
-- Bitcoin++ [aceitando voluntários](https://btcpp.dev/volunteer) (Florianopolis, BrazilFeb 26 - 28, 2026)
+- [Livecoins lança programa de aceleração de startups](https://livecoins.com.br/startupmoon/)
 
 - [Desafio de aniversário do Juan](https://juancolchete.com.br/birthday)
+
+- **UnidosPeloTesouroDireto**: Se o atacante souber sua chave pública e conseguir alguma das chaves privadas, ele consegue calcular a chave privada estendida? Como isso funciona? Quais os riscos?
 
 ## Tópicos Bitcoin
 
@@ -78,6 +78,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Ark web wallet powered by ArkadeOS: Byzantium](https://github.com/IsaqueFranklin/Byzantium-wallet-web)
 
 ## Extras
+
+- Bitcoin++ [aceitando voluntários](https://btcpp.dev/volunteer) (Florianopolis, BrazilFeb 26 - 28, 2026)
 
 - [Steak 'n Shake to Pay Hourly Workers a Bitcoin Bonus](https://stacker.news/items/1416815) - $0.21 per hour (~200–250 sats/hour).
 
