@@ -14,6 +14,7 @@ title: "Seminário Socrático 21"
 - [Livecoins](https://livecoins.com.br/)
 - [Unihorizontes](https://unihorizontes.br/)
 - [Clube Bitcoin UFMG](https://x.com/UFMGBitcoinClub)
+- [Escola de engenharia da UFMG](https://www.eng.ufmg.br/portal/)
 
 ## Formato
 
@@ -69,9 +70,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - [A Mathematical Theory of Payment Channel Networks](https://delvingbitcoin.org/t/a-mathematical-theory-of-payment-channel-networks/2204)
 
-- Taproot Assets V0.7
-  - [Blog Post](https://lightning.engineering/posts/2025-12-16-tapd-0.7-launch/)
-  - [GitHub Release](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.7.0)
+- [Citrea Mainnet Goes Live](https://xcancel.com/citrea_xyz/status/2016149582942495044)
 
 - [Lightning Network 2025 Stats: Year in Review](https://xcancel.com/ambosstech/status/2006116672026075363)
 
