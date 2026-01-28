@@ -69,6 +69,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 ## Tópicos Lightning / Layer 2
 
 - [A Mathematical Theory of Payment Channel Networks](https://delvingbitcoin.org/t/a-mathematical-theory-of-payment-channel-networks/2204)
+  - [Stacker news](https://stacker.news/items/1409858) 
 
 - [Citrea Mainnet Goes Live](https://xcancel.com/citrea_xyz/status/2016149582942495044)
 
