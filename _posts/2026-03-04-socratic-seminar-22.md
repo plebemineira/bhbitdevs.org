@@ -33,6 +33,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Resultado do Hackathon](https://loot.fund/hackathons/bitcoin-exploits-edition/applications)
 
 - **UnidosPeloTesouroDireto**: Para fins de estudo, criei uma multiassinatura 2-de-3 com apenas 3 palavras que se repetiam. Coloquei 30 reais e deixei 70 dias. Nada aconteceu. Então transferi para uma 3-de-4 porém a carteira inteira era formada por apenas 1 palavra. Mais 4 dias e nada ocorreu. Transferi para uma 2-de-4 com apenas 1 palavra também. Mais 1 dia e nada ocorreu. Transferi para uma carteira simples, de apenas 1 palavra, com passphrase = "1". Em 6 dias o dinheiro foi roubado. É mais provável de terem identificado instantaneamente porém demorado 6 dias para roubar porque estavam esperando eu depositar mais? Ou o robô estava passando por essa sequência somente naquele momento?
+  - [Endereço](https://mempool.space/pt/address/BC1QAZDSYE3KVVX9JYDMQCAA8A7EW0FWJZ9X7F5LYG)
+  - [Transação](https://mempool.space/tx/b74bce09f469291f8a58249e43010ed76eaa5f653be8a082ca550de3455641c3)
 
 ## Tópicos Bitcoin
 
