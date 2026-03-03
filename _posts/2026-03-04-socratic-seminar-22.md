@@ -66,3 +66,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - [Integração em tempo real do Mario Kart com Lightning](https://xcancel.com/d_plus__plus/status/2022889867169140767)
 
 - [A suite of CLIs, skills, and MCP servers to enable agents to securely transact on the web with Lightning](https://xcancel.com/roasbeef/status/2021669541559119952)
+
+## Mining
+
+- [Parasite mining](https://xcancel.com/BitBuyer313/status/2028796969267638755)
