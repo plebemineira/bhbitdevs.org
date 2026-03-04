@@ -59,8 +59,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Lightning / Layer 2
 
-- [Utreexo + Lightning](https://github.com/Davidson-Souza/dotfiles/blob/main/presentations/Lightning%2B%2B_%20Utreexo%20%2B%20Lightning.pdf)
-
 - [Taproot Lightning Channels Workshop by Pins](https://github.com/MPins/Taproot-Lightning-Channels-Workshop)
 
 - [Integração em tempo real do Mario Kart com Lightning](https://xcancel.com/d_plus__plus/status/2022889867169140767)
