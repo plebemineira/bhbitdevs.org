@@ -40,22 +40,22 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [FIBRE, Resurrected](https://lclhost.org/blog/fibre-resurrected/)
 
-- **jvsena42**: Collision-resistant hash function for Bitcoin Script
-  - [Delving Bitcoin](https://delvingbitcoin.org/t/binohash-transaction-introspection-without-softforks/2288)
-  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/13/)
-
-- **jvsena42**: Draft BIP for expanded nVersion nonce space for miners
-  - [bitcoindev](https://groups.google.com/g/bitcoindev/c/fCfbi8hy-AE)
-  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/)
-
 - **IsaqueFranklin**: Ultra high-performance secp256k1 ECC library
   - [Delving Bitcoin](https://delvingbitcoin.org/t/introducing-ultrafastsecp256k1-a-multi-architecture-exploration-of-secp256k1-optimizations/2280)
   - [GitHub](https://github.com/shrec/UltrafastSecp256k1)
   - [Issue #87](https://github.com/shrec/UltrafastSecp256k1/issues/87)
 
+- **jvsena42**: Collision-resistant hash function for Bitcoin Script
+  - [Delving Bitcoin](https://delvingbitcoin.org/t/binohash-transaction-introspection-without-softforks/2288)
+  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/13/)
+
 - **IsaqueFranklin**: Study of Bitcoin's resilience to submarine cable failures
   - [Arxiv](https://arxiv.org/abs/2602.14372)
   - [Lopp](https://x.com/lopp/status/2029891712621985903)
+
+- **jvsena42**: Draft BIP for expanded nVersion nonce space for miners
+  - [bitcoindev](https://groups.google.com/g/bitcoindev/c/fCfbi8hy-AE)
+  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/06/)
 
 - **IsaqueFranklin**: [Bitcoin as an Interplanetary Monetary Standard with Proof-of-Transit Timestamping](https://arxiv.org/abs/2508.20591)
 
@@ -75,14 +75,14 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **TheMhv**: [NUT-28: Pay-to-Blinded-Key (P2BK) - Cashu](https://github.com/cashubtc/nuts/blob/main/28.md)
 
+- **IsaqueFranklin**: Privacy in Ark
+  - [Stacker News](https://stacker.news/items/1455970)
+  - [pARK](https://uncensoredtech.substack.com/p/park)
+
 - **TheMhv**: BRIX: Receive Bitcoin with your phone number or email
   - [Anúncio](https://x.com/i/status/2034967375175614914)
   - [GitHub](https://github.com/Quizzicarol/brix)
   - [Vulnerability Report (jaonoctus)](https://gist.github.com/jaonoctus/421fff0dc0d4073b0c70d5a78ffff5a7)
-
-- **IsaqueFranklin**: Privacy in Ark
-  - [Stacker News](https://stacker.news/items/1455970)
-  - [pARK](https://uncensoredtech.substack.com/p/park)
 
 - **Libertariamemes**: KIX PIX Rosa: Framework não-custodial para Lightning Network
   - [GitHub](https://github.com/Libertariamemes/KIX-PIX-Rosa/)
