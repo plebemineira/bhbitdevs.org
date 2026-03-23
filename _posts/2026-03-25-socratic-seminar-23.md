@@ -90,6 +90,10 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [BTC Lightning POS ESP32](https://github.com/Libertariamemes/BTC-Lightning-POS-esp32)
   - [Apresentação](https://satoshicanvas.com/kix-apresentacao/)
 
+## Mining
+
+- **TheMhv**: [We just had a rare-ish two block fork/reorg between Foundry and AntPool+ViaBTC. Foundry mined six blocks in a row.](https://xcancel.com/0xB10C/status/2036118084734349542)
+
 ## Extras
 
 - **jvsena42**: [Memento Bot - Cápsula do tempo para verificar tweets sobre Bitcoin](https://github.com/jvsena42/memento)
