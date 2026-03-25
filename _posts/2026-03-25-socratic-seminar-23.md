@@ -38,8 +38,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Bitcoin
 
-- **jvsena42**: [FIBRE, Resurrected](https://lclhost.org/blog/fibre-resurrected/)
-
 - **IsaqueFranklin**: Ultra high-performance secp256k1 ECC library
   - [Delving Bitcoin](https://delvingbitcoin.org/t/introducing-ultrafastsecp256k1-a-multi-architecture-exploration-of-secp256k1-optimizations/2280)
   - [GitHub](https://github.com/shrec/UltrafastSecp256k1)
