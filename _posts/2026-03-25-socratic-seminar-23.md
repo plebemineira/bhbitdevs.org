@@ -18,7 +18,7 @@ title: "Seminário Socrático 23"
 
 ## Formato
 
-Método Socrático: diálogo argumentativo baseado em perguntas e respostas.Stal
+Método Socrático: diálogo argumentativo baseado em perguntas e respostas.
 
 Focado na tecnologia.
 
