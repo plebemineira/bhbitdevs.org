@@ -24,4 +24,24 @@
       }
     }
   }
+
+  &-content {
+    li > p {
+      margin-bottom: 0;
+    }
+
+    > ul > li {
+      margin-bottom: 0.75rem;
+    }
+
+    ul ul {
+      margin-top: 0.25rem;
+      margin-bottom: 0;
+      padding-left: 2ch;
+    }
+
+    h2 {
+      margin-top: 2rem;
+    }
+  }
 }
