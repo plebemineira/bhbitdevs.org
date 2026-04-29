@@ -41,8 +41,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [Blockstream Research Demonstrates Quantum-Resistant Transaction Signing on Liquid Using Simplicity Smart Contracts](https://blog.blockstream.com/blockstream-research-demonstrates-quantum-resistant-transaction-signing-on-liquid-using-simplicity-smart-contracts/)
 
-- **jvsena42**: [How Wallet Fingerprints Damage Payjoin Privacy](https://payjoin.org/blog/2026/03/25/wallet-fingerprints-payjoin-privacy/)
-
 - **IsaqueFranklin**: Floresta release v0.9.0
   - [Blog](https://www.getfloresta.org/blog/release-v0.9.0)
   - [GitHub](https://github.com/getfloresta/Floresta/releases/tag/v0.9.0)
