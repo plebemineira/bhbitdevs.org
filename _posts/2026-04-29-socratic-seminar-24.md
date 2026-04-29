@@ -92,8 +92,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Extras
 
-- **jvsena42**: [Um estudo comparativo de usabilidade entre o Pix e o Lightning Network para pagamentos instantâneos presenciais no varejo](https://www.bcb.gov.br/conteudo/eventos/Documents/moedas_digitais/tokenizacao/WorkTOK-Mimeo-TECH_3B_A_a_Um_estudo_comparativo_de_usabilidade_entre_o_Pix_e_o_Lightning_Network_para_pagtos_instantaneos.pdf)
-
 - **IsaqueFranklin**: git-nostr-sign: sign git with your Nostr keys
   - [Stacker News](https://stacker.news/items/1463778)
   - [Site](https://nostr-svrn.codeberg.page/)
