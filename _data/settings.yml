@@ -5,3 +5,4 @@ menu:
 
   - {name: 'Eventos', url: '/events'}
   - {name: 'Meetup', url: 'https://www.meetup.com/belo-horizonte-bitdevs/', external: true}
+  - {name: 'Outras Cidades', url: '/cities'}
