@@ -44,7 +44,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Delving Bitcoin](https://delvingbitcoin.org/t/qcap-a-bitcoin-native-quantum-canary-alert/2498)
   - [Paper](https://eprint.iacr.org/2026/618.pdf)
 
-- **jvsena42**: [Usuário conseguiu recuperar passphrase usando Claude + btcrecover](https://xcancel.com/bitdov/status/2054617359525068937)
+- **jvsena42**: [Claude roubou o emprego do Narcélio](https://xcancel.com/bitdov/status/2054617359525068937)
 
 - **IsaqueFranklin**: Release da Sparrow usando UltrafastSecp256k1 no Frigate electrum server
   - [GitHub (UltrafastSecp256k1)](https://github.com/shrec/UltrafastSecp256k1)
