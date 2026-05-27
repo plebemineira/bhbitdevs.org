@@ -54,10 +54,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **IsaqueFranklin**: [Mapa de influência de devs no Bitcoin (Orange Dev Network)](https://sorukumar.github.io/orange-dev-network/network.html)
 
-- **jvsena42**: BIP Draft P2P UTXO Set Sharing
-  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/05/15/)
-  - [bitcoindev](https://groups.google.com/g/bitcoindev/c/rThmyI8ZN3Q)
-
 - **IsaqueFranklin**: [enclavia.io: bring enclaves to every bitcoin company](https://xcancel.com/afilini/status/2050604607940829488)
 
 ## Tópicos Lightning / Layer 2
