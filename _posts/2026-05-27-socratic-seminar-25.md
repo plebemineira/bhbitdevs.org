@@ -65,5 +65,3 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **jvsena42**: Public fraud proofs for just-in-time channels
   - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/05/08/)
   - [Delving Bitcoin](https://delvingbitcoin.org/t/proposal-public-fraud-proofs-for-just-in-time-channels/2451)
-
-does this proupose dodoes this proupose do
