@@ -37,7 +37,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **IsaqueFranklin**: [Vinteum fixes things (bitcoin/bips#2153)](https://github.com/bitcoin/bips/pull/2153)
 
 
-- **jvsena42**: [Someone just broadcasted 5 transactions totaling 107 BTC to the Bitcoin "burn address"](https://xcancel.com/SaniExp/status/2059212284140888375)
+- **jvsena42**: [Someone just broadcasted 5 transactions totaling 107 BTC to the Bitcoin "burn address"](https://xcancel.com/mononautical/status/2059275480948421054)
 
 
 - **IsaqueFranklin**: QCAP: A Bitcoin-Native Quantum Canary Alert (a canary trap)
