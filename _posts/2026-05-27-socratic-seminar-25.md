@@ -61,3 +61,9 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **IsaqueFranklin**: [Non-custodial cashu ecash mints inside an enclave](https://xcancel.com/i/status/2049952997015175479)
 
 - **IsaqueFranklin**: [Dog Park: Privacy in Bark (Ark)](https://sovrandy.com/2026/04/19/dog-park-privacy-in-bark.html)
+
+- **jvsena42**: Public fraud proofs for just-in-time channels
+  - [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/05/08/)
+  - [Delving Bitcoin](https://delvingbitcoin.org/t/proposal-public-fraud-proofs-for-just-in-time-channels/2451)
+
+does this proupose dodoes this proupose do
