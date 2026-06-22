@@ -42,7 +42,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **narcelio**: [Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions](https://groups.google.com/g/bitcoindev/c/ZVDEzxG6Sq8)
 
-- **narcelio**: [BIP Proposal] Informational BIP on Low-R Signature Grinding](https://groups.google.com/g/bitcoindev/c/boEZRlqczvw?pli=1)
+- **narcelio**: [BIP Proposal - Informational BIP on Low-R Signature Grinding](https://groups.google.com/g/bitcoindev/c/boEZRlqczvw?pli=1)
 
 ## Tópicos Lightning / Layer 2
 
