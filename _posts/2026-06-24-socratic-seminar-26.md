@@ -38,6 +38,12 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [floresta-joinstr: coinjoin on mobile app using utreexo (floresta)](https://xcancel.com/1440000bytes/status/2066800243648434588)
 
+- **narcelio**: [Testnet 5](https://groups.google.com/g/bitcoindev/c/kGUMTxOvdJA)
+
+- **narcelio**: [Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions](https://groups.google.com/g/bitcoindev/c/ZVDEzxG6Sq8)
+
+- **narcelio**: [BIP Proposal] Informational BIP on Low-R Signature Grinding](https://groups.google.com/g/bitcoindev/c/boEZRlqczvw?pli=1)
+
 ## Tópicos Lightning / Layer 2
 
 - **jvsena42**: [Core Lightning 26.06: "Quantum-Resistant Lightning Channel"](https://blog.blockstream.com/core-lightning-26-06-quantum-resistant-lightning-channel/)
