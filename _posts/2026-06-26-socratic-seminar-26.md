@@ -50,8 +50,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Lightning / Layer 2
 
-- **jvsena42**: [Core Lightning 26.06: "Quantum-Resistant Lightning Channel"](https://blog.blockstream.com/core-lightning-26-06-quantum-resistant-lightning-channel/)
-
 - **jvsena42**: [Post Quantum Lightning: Layer by Layer](https://delvingbitcoin.org/t/post-quantum-lightning-layer-by-layer/2479)
 
 - **IsaqueFranklin**: [O Ark que não mexe com shitcoins live na mainnet (Bark)](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
