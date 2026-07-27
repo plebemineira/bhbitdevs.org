@@ -16,10 +16,6 @@ title: "Seminário Socrático 27"
 - [Clube Bitcoin UFMG](https://xcancel.com/UFMGBitcoinClub)
 - [Escola de engenharia da UFMG](https://www.eng.ufmg.br/portal/)
 
-## Formato
-
-Método Socrático: diálogo argumentativo baseado em perguntas e respostas, focado na tecnologia.
-
 ## Apresentações
 
 Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
@@ -34,6 +30,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [Formal Verification of the Bitcoin Protocol](https://bitcoinops.org/en/newsletters/2026/07/17/#formal-verification-of-the-bitcoin-protocol)
 
+- **jvsena42**: [Maelstrom concede grant a Tadge Dryja para defesa pós-quântica do Bitcoin](https://x.com/maelstromfund/status/2077048928378470901)
+
 ## Tópicos Lightning / Layer 2
 
 - **jvsena42**: [Async Payments: Getting Paid While Your Node Is Offline](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
@@ -44,3 +42,5 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 ## Mineração 
 
 - **jvsena42**: [O primeiro bloco com StratumV2](https://xcancel.com/TheBlueMatt/status/2070133045773103376)
+
+- **jvsena42**: [F2Pool mines two blocks at height 956337](https://bnoc.xyz/t/f2pool-mines-two-blocks-at-height-956337/147)
