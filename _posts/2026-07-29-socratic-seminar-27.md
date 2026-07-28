@@ -38,6 +38,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [Async Payments: Getting Paid While Your Node Is Offline](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
 
+- **jvsena42**: [Revisão sobre Ark](https://second.tech/docs/learn/intro)
+
 - **jvsena42**: [Announcing Wavelength, the easiest way to integrate bitcoin for agents and humans](https://lightning.engineering/posts/2026-07-21-wavelength-launch/)
   - [Anúncio no Twitter/X](https://xcancel.com/roasbeef/status/2079634953512644676)
 
