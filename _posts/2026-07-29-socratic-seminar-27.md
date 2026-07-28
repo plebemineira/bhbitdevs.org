@@ -32,6 +32,8 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [Maelstrom concede grant a Tadge Dryja para defesa pós-quântica do Bitcoin](https://x.com/maelstromfund/status/2077048928378470901)
 
+- **renatoslopes**: [Schiavinato Sharing is now DuraShare](https://github.com/GRIFORTIS/durashare)
+
 ## Tópicos Lightning / Layer 2
 
 - **jvsena42**: [Async Payments: Getting Paid While Your Node Is Offline](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
