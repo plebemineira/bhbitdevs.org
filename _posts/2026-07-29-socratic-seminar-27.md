@@ -30,13 +30,17 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **jvsena42**: [Formal Verification of the Bitcoin Protocol](https://bitcoinops.org/en/newsletters/2026/07/17/#formal-verification-of-the-bitcoin-protocol)
 
+- **xlmoliveirax**: [Permitir que prunados voltem a contribuir com o download inicial da blockchain de novos nós, sem precisar guardar a cadeia inteira.](https://delvingbitcoin.org/t/fountain-codes-a-way-to-reduce-blockchain-storage-costs/2624)
+
 - **jvsena42**: [Maelstrom concede grant a Tadge Dryja para defesa pós-quântica do Bitcoin](https://x.com/maelstromfund/status/2077048928378470901)
 
-- **renatoslopes**: [Schiavinato Sharing is now DuraShare](https://github.com/GRIFORTIS/durashare)
+- **xlmoliveirax**: [BIP322](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki)
 
 ## Tópicos Lightning / Layer 2
 
 - **jvsena42**: [Async Payments: Getting Paid While Your Node Is Offline](https://lightningdevkit.org/blog/async-payments-receiving-while-offline)
+
+- **xlmoliveirax**: [DoS por gossip com timestamp zero no LND](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
 
 - **jvsena42**: [Revisão sobre Ark](https://second.tech/docs/learn/intro)
 
