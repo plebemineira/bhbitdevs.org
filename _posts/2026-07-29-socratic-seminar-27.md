@@ -48,3 +48,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **jvsena42**: [O primeiro bloco com StratumV2](https://xcancel.com/TheBlueMatt/status/2070133045773103376)
 
 - **jvsena42**: [F2Pool mines two blocks at height 956337](https://bnoc.xyz/t/f2pool-mines-two-blocks-at-height-956337/147)
+
+## Outros
+
+- **jvsena42**: [Discovering cryptographic weaknesses with Claude Mythos Preview](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
