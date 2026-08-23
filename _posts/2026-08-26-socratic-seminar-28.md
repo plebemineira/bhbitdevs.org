@@ -31,8 +31,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **narcelio**: [Nova interface do Core em QML](https://xcancel.com/jarolrod/status/2087272405731320006)
 
 - **jvsena42**: ColdCard Postmortem
-  - [Commit da correção](https://github.com/Coldcard/firmware/commit/ca72463709f4e3f8964952039d5caf955f566a87)
-  - [When randombytes runs but doesn't](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+  - [Commit Que introduziu o bug](https://github.com/Coldcard/firmware/commit/b18723dd)
   - [ColdCard hack: o bug que quebrou o cofre](https://www.eddieoz.com/coldcard-hack-o-bug-que-quebrou-o-cofre/)
 
 - **narcelio**: [Entropia nas outras carteiras de hardware](https://xcancel.com/the_smart_ape/status/2084265598368809390)
