@@ -34,15 +34,21 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Commit Que introduziu o bug](https://github.com/Coldcard/firmware/commit/b18723dd)
   - [ColdCard hack: o bug que quebrou o cofre](https://www.eddieoz.com/coldcard-hack-o-bug-que-quebrou-o-cofre/)
 
+- **IsaqueFranklin**: [Predictable RNG fallback and 32-bit reseed in ColdCard firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
+
 - **narcelio**: [Entropia nas outras carteiras de hardware](https://xcancel.com/the_smart_ape/status/2084265598368809390)
 
 - **jvsena42**: [Vulnerabilidade crítica na crate `bip322` em Rust: provas BIP-322 para endereços P2WPKH e P2SH-P2WPKH podem ser forjadas com qualquer chave do atacante](https://xcancel.com/raphjaph/status/2088299960919826882)
+
+- **IsaqueFranklin**: [Libshrincs: A C implementation with a machine-checked security proof](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
 
 - **narcelio**: [Emissão de cauda](https://livecoins.com.br/emissao-de-cauda-pode-ser-a-proxima-grande-polemica-do-bitcoin-entenda-a-proposta/)
 
 - **narcelio**: [TLD .bitcoin](https://xcancel.com/wiz/status/2085029140453830725)
 
 - **jvsena42**: [Krux pode ser descontinuado nos próximos meses](https://xcancel.com/odudex/status/2084762385282171215)
+
+- **IsaqueFranklin**: [HNDL e Silent Payments](https://conduition.io/cryptography/hndl-silent-payments/)
 
 - **narcelio**: [Puzzle `#135` resolvido](https://bitcointalk.org/index.php?topic=5517607.msg66986617#msg66986617)
 
