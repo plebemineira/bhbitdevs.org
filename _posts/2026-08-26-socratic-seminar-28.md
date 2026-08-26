@@ -55,10 +55,9 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **narcelio**: [Pool pra resolver o puzzle `#71`](https://krackpot.io/)
 
 - **narcelio**: [Depósito na "bus bus bus bus bus bus bus bus bus bus bus bus" vira fee](https://x.com/ottosch_/status/2087534668945989928)
-
+  - [The v3b weak seed sweeper](https://research.mempool.space/the-v3b-weak-seed-sweeper/)
 
 - **xlmoliveirax**: [Chain split, BIP 110](https://fork.observer/?network=mainnet)
-
 
 - **xlmoliveirax**: [Alteração de PoW no BIP 110](https://x.com/LukeDashjr/status/2087164051797192886)
 
