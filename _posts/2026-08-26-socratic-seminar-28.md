@@ -13,7 +13,7 @@ title: "Seminário Socrático 28"
 
 - [Vinteum](https://vinteum.org/)
 - [Livecoins](https://livecoins.com.br/)
-- [Clube Bitcoin UFMG](https://xcancel.com/UFMGBitcoinClub)
+- [Clube Bitcoin UFMG](https://x.com/UFMGBitcoinClub)
 - [Escola de engenharia da UFMG](https://www.eng.ufmg.br/portal/)
 
 ## Apresentações
@@ -28,7 +28,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 ## Tópicos Bitcoin
 
-- **narcelio**: [Nova interface do Core em QML](https://xcancel.com/jarolrod/status/2087272405731320006)
+- **narcelio**: [Nova interface do Core em QML](https://x.com/jarolrod/status/2087272405731320006)
 
 - **jvsena42**: ColdCard Postmortem
   - [Commit Que introduziu o bug](https://github.com/Coldcard/firmware/commit/b18723dd)
@@ -36,17 +36,17 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **IsaqueFranklin**: [Predictable RNG fallback and 32-bit reseed in ColdCard firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
 
-- **narcelio**: [Entropia nas outras carteiras de hardware](https://xcancel.com/the_smart_ape/status/2084265598368809390)
+- **narcelio**: [Entropia nas outras carteiras de hardware](https://x.com/the_smart_ape/status/2084265598368809390)
 
-- **jvsena42**: [Vulnerabilidade crítica na crate `bip322` em Rust: provas BIP-322 para endereços P2WPKH e P2SH-P2WPKH podem ser forjadas com qualquer chave do atacante](https://xcancel.com/raphjaph/status/2088299960919826882)
+- **jvsena42**: [Vulnerabilidade crítica na crate `bip322` em Rust: provas BIP-322 para endereços P2WPKH e P2SH-P2WPKH podem ser forjadas com qualquer chave do atacante](https://x.com/raphjaph/status/2088299960919826882)
 
 - **IsaqueFranklin**: [Libshrincs: A C implementation with a machine-checked security proof](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795)
 
 - **narcelio**: [Emissão de cauda](https://livecoins.com.br/emissao-de-cauda-pode-ser-a-proxima-grande-polemica-do-bitcoin-entenda-a-proposta/)
 
-- **narcelio**: [TLD .bitcoin](https://xcancel.com/wiz/status/2085029140453830725)
+- **narcelio**: [TLD .bitcoin](https://x.com/wiz/status/2085029140453830725)
 
-- **jvsena42**: [Krux pode ser descontinuado nos próximos meses](https://xcancel.com/odudex/status/2084762385282171215)
+- **jvsena42**: [Krux pode ser descontinuado nos próximos meses](https://x.com/odudex/status/2084762385282171215)
 
 - **IsaqueFranklin**: [HNDL e Silent Payments](https://conduition.io/cryptography/hndl-silent-payments/)
 
@@ -54,25 +54,25 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **narcelio**: [Pool pra resolver o puzzle `#71`](https://krackpot.io/)
 
-- **narcelio**: [Depósito na "bus bus bus bus bus bus bus bus bus bus bus bus" vira fee](https://xcancel.com/ottosch_/status/2087534668945989928)
+- **narcelio**: [Depósito na "bus bus bus bus bus bus bus bus bus bus bus bus" vira fee](https://x.com/ottosch_/status/2087534668945989928)
 
 
 - **xlmoliveirax**: [Chain split, BIP 110](https://fork.observer/?network=mainnet)
 
 
-- **xlmoliveirax**: [Alteração de PoW no BIP 110](https://xcancel.com/LukeDashjr/status/2087164051797192886)
+- **xlmoliveirax**: [Alteração de PoW no BIP 110](https://x.com/LukeDashjr/status/2087164051797192886)
 
 ## Tópicos Lightning / Layer 2
 
-- **jvsena42**: [Boltz encerrando o Boltz Swap após serem alvo de muitos ataques](https://xcancel.com/Boltzhq/status/2084311537502630319)
+- **jvsena42**: [Boltz encerrando o Boltz Swap após serem alvo de muitos ataques](https://x.com/Boltzhq/status/2084311537502630319)
 
 - **jvsena42**: Vulnerabilidade crítica sendo ativamente explorada no BTCPay Server, com risco de perda de fundos
-  - [Aviso inicial](https://xcancel.com/BtcpayServer/status/2085755643659522240)
-  - [Artigo de acompanhamento](https://xcancel.com/BtcpayServer/status/2085865561137831938)
+  - [Aviso inicial](https://x.com/BtcpayServer/status/2085755643659522240)
+  - [Artigo de acompanhamento](https://x.com/BtcpayServer/status/2085865561137831938)
   - [O que são macaroons](https://docs.lightning.engineering/lightning-network-tools/lnd/macaroons)
 
 - **jvsena42**: Infraestrutura do ZEUS temporariamente offline após incidente de cibersegurança
-  - [Comunicado](https://xcancel.com/ZeusLN/status/2085113369367871605)
+  - [Comunicado](https://x.com/ZeusLN/status/2085113369367871605)
   - [Post-Mortem](https://zeusln.com/blog/post-mortem-security-update-august-5th-2026/)
 
 
