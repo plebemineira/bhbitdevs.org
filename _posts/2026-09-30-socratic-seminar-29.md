@@ -65,6 +65,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Transação de peg-out](https://mempool.space/pt/tx/8db751a650ae2f12006b7e8c69a75e4df360e8afd6b9e05ae0b9fa6458a7b140)
   - [Transação na Liquid](https://blockstream.info/liquid/tx/ce4caece413cd9d444ce7ed9f54e5b328b3da5e4af301aff59a3571f76e988f2)
   - [Post-mortem](https://blog.blockstream.com/liquid-network-security-incident-assessment/)
+  - [Liquid Hack explained Simply](https://x.com/Bitcoin_Devs/status/2097748885972365732)
 
 - **narcelio**: [PQLN: Post-Quantum Security for the Bitcoin Lightning Network's Off-Chain Surfaces](https://delvingbitcoin.org/t/pqln-post-quantum-security-for-the-bitcoin-lightning-networks-off-chain-surfaces/2893)
 
