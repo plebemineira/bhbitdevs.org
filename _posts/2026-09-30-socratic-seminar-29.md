@@ -40,7 +40,7 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **IsaqueFranklin**: [Review do SHRINCS pela Project Eleven](https://x.com/projecteleven/status/2093450676529774992)
 
-- **narcelio**: [Computador quântico destruirá o Bitcoin em 2028?](https://www.ionq.com/news/ionq-publishes-worlds-first-fully-compiled-end-to-end-blueprint-for-breaking-256-bit-elliptic-curve-signatures)
+- **narcelio**: [Computador quântico destruirá o Bitcoin em 2028](https://www.ionq.com/news/ionq-publishes-worlds-first-fully-compiled-end-to-end-blueprint-for-breaking-256-bit-elliptic-curve-signatures)
 
 - **narcelio**: Últimos números do RSA Factoring Challenge quebrados
   - [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
