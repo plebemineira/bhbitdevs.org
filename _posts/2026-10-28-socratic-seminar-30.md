@@ -69,3 +69,5 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Apresentação](https://x.com/_miguelmedeiros/status/2106013581422497934)
   - [Repositório](https://github.com/MiguelMedeiros/ghostly)
   - [Wisps](https://ghostly.tools/wisps)
+ 
+- **narcelio**: [Exponential Time Hypothesis refutada](https://x.com/rrwilliams/status/2114833319431209352)
