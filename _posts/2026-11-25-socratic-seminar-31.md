@@ -32,6 +32,16 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Aviso de segurança GHSA-6jp4-8v48-cc5v](https://github.com/spesmilo/electrum/security/advisories/GHSA-6jp4-8v48-cc5v)
   - [Artigo do Bitcoin News](https://bitcoinnews.com/p/electrum-bitcoin-wallet-severe-rbf-exploit)
 
+- **IsaqueFranklin**: [BIP draft: NestedMuSig2, MuSig2 recursivo para assinaturas compatíveis com BIP340](https://groups.google.com/g/bitcoindev/c/eSgxP8NmEnA)
+
+- **IsaqueFranklin**: [Carteiras devem usar endereços Taproot ou SegWit por padrão enquanto alguns serviços ainda rejeitam bc1p?](https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056)
+
+- **IsaqueFranklin**: [Coordenação de PSBT MuSig2 via relays Nostr: invariantes de transporte para segurança dos nonces](https://delvingbitcoin.org/t/psbt-musig2-coordination-over-nostr-relays-transport-invariants-for-nonce-safety-under-at-least-once-delivery/2852)
+
+- **IsaqueFranklin**: Praxis: Practical Witness Encryption for NP
+  - [Paper](https://eprint.iacr.org/2026/2971.pdf)
+  - [Post de Robin Linus](https://x.com/robin_linus/status/2124888404605501520)
+
 ## Tópicos Lightning / Layer 2
 
 - **jvsena42**: [Reservas da Liquid totalmente restauradas](https://x.com/Liquid_BTC/status/2117407283391214047)
@@ -43,3 +53,5 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
   - [Binance: o ataque de US$ 6,3 bilhões começou com uma falsa entrevista de emprego](https://thenextweb.com/news/binance-hack-fake-job-interview-incident-report)
 
 - **jvsena42**: [Edital FAPESP de R$ 21 milhões para software livre e plataformas descentralizadas](https://fapesp.br/18444/chamada-de-propostas-fapespmctimcomcgibr-2026-para-auxilio-a-pesquisa-regular-apr-e-projeto-tematico)
+
+- **IsaqueFranklin**: [Post de P3b7_](https://x.com/P3b7_/status/2116208032539451532)
