@@ -55,3 +55,5 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **IsaqueFranklin**: [Post de P3b7_](https://x.com/P3b7_/status/2116208032539451532)
 
 - **jvsena42**: [Edital FAPESP de R$ 21 milhões para software livre e plataformas descentralizadas](https://fapesp.br/18444/chamada-de-propostas-fapespmctimcomcgibr-2026-para-auxilio-a-pesquisa-regular-apr-e-projeto-tematico)
+
+- **jvsena42**: [OpenAI e Cisco lançam o Shirudo: "escudos" com eBPF que bloqueiam exploits em sistemas Linux enquanto o patch não sai](https://openai.com/index/introducing-shirudo/)
