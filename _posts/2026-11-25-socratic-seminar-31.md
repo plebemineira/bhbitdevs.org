@@ -36,8 +36,6 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 
 - **IsaqueFranklin**: [Carteiras devem usar endereços Taproot ou SegWit por padrão enquanto alguns serviços ainda rejeitam bc1p?](https://delvingbitcoin.org/t/should-wallets-default-to-taproot-or-segwit-receive-addresses-while-some-services-still-reject-bc1p/3056)
 
-- **jvsena42**: [Justiça de São Paulo condena a BitPay a devolver 336 BTC roubados de carteira de autocustódia (Copay)](https://bitnoticias.com.br/noticias/justica-de-sao-paulo-condena-bitpay-bitcoin-brasil/)
-
 - **IsaqueFranklin**: [Coordenação de PSBT MuSig2 via relays Nostr: invariantes de transporte para segurança dos nonces](https://delvingbitcoin.org/t/psbt-musig2-coordination-over-nostr-relays-transport-invariants-for-nonce-safety-under-at-least-once-delivery/2852)
 
 - **IsaqueFranklin**: Praxis: Practical Witness Encryption for NP
@@ -59,3 +57,5 @@ Brevemente, seu nome e o que faz. Fique a vontade para manter a anonimidade.
 - **jvsena42**: [Edital FAPESP de R$ 21 milhões para software livre e plataformas descentralizadas](https://fapesp.br/18444/chamada-de-propostas-fapespmctimcomcgibr-2026-para-auxilio-a-pesquisa-regular-apr-e-projeto-tematico)
 
 - **jvsena42**: [OpenAI e Cisco lançam o Shirudo: "escudos" com eBPF que bloqueiam exploits em sistemas Linux enquanto o patch não sai](https://openai.com/index/introducing-shirudo/)
+
+- **jvsena42**: [Justiça de São Paulo condena a BitPay a devolver 336 BTC roubados de carteira de autocustódia (Copay)](https://bitnoticias.com.br/noticias/justica-de-sao-paulo-condena-bitpay-bitcoin-brasil/)
